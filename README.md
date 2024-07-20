@@ -1,1 +1,1 @@
-# 100 JavaScript project
+# 100 Days of JavaScript project
